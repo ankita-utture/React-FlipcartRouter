@@ -1,20 +1,16 @@
-import Home from "./pages/home";
-import Describe from "./pages/describe";
-import { Route , Routes } from "react-router";
+import Home from "./pages/Home";
+import Describe from "./pages/Describe";
+import { Route, Routes } from "react-router";
 
 function App() {
-  
-
   return (
     <>
       <Routes>
-        <Route path="/" element={<Home />}></Route>
-
-        <Route path="/products/:id" element={<Describe />}></Route>
-
+        <Route path="/" element={<Home />} />
+        <Route path="/products/:id" element={<Describe />} />
       </Routes>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
