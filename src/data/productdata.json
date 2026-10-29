@@ -1,0 +1,162 @@
+
+[
+  {
+    "id": 1,
+    "title": "Crompton Ceiling Fan",
+    "price": 2499,
+    "diffimages":["https://darlingretail.com/cdn/shop/files/1_505b1faa-f2ef-453c-a516-495771984f30.jpg?v=1755781846",
+            "https://media.istockphoto.com/id/1251656728/photo/ceiling-fan-in-different-color-size-shape-and-design-in-white-background.jpg?s=2048x2048&w=is&k=20&c=uEsByXrGHyWukhHKYn3H8HBumQCbQW83B4q-1nTdpAc=" , 
+            "https://images.pexels.com/photos/4030073/pexels-photo-4030073.jpeg" ,
+             "https://images.pexels.com/photos/12689254/pexels-photo-12689254.jpeg" ,
+              "https://images.pexels.com/photos/3935353/pexels-photo-3935353.jpeg"],
+    "description": "Crompton ceiling fan designed to provide powerful and consistent airflow. Its energy-efficient motor and stylish design make it suitable for bedrooms, living rooms, offices and other indoor spaces.",
+    "features": [
+      "High-speed motor for powerful airflow",
+      "Energy-efficient performance",
+      "Stylish modern design"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Philips 12W LED Bulb",
+    "price": 199,
+    "diffimages":["https://indrico.in/wp-content/uploads/2024/08/51qW5YlYOmL._SL1080_.jpg",
+                "https://images.pexels.com/photos/5853954/pexels-photo-5853954.jpeg",
+                "https://images.pexels.com/photos/3946163/pexels-photo-3946163.jpeg",
+            "https://images.pexels.com/photos/3946152/pexels-photo-3946152.jpeg",
+        "https://images.pexels.com/photos/3946162/pexels-photo-3946162.jpeg"],
+    "description": "Philips 12W LED bulb provides bright and comfortable lighting while consuming less electricity. It is suitable for bedrooms, study rooms, living rooms and offices.",
+    "features": [
+      "12W energy-efficient LED",
+      "Bright white illumination",
+      "Long-lasting performance"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Philips Steam Iron",
+    "price": 1499,
+    "diffimages":["https://www.domesticappliances.philips.co.in/cdn/shop/files/Dst6210_info_600x600-01_jpg.jpg?v=1787728839&width=900",
+                "https://images.pexels.com/photos/5202923/pexels-photo-5202923.jpeg",
+                    "https://images.pexels.com/photos/7703649/pexels-photo-7703649.jpeg",
+                "https://images.pexels.com/photos/4472285/pexels-photo-4472285.jpeg",
+            "https://images.pexels.com/photos/5202913/pexels-photo-5202913.jpeg"],
+    "description": "Philips steam iron designed to make everyday ironing easier and faster. It produces steam to help remove wrinkles and features a smooth soleplate for comfortable movement across different fabrics.",
+    "features": [
+      "Powerful steam output",
+      "Non-stick soleplate",
+      "Adjustable temperature control"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Bajaj Mixer Grinder",
+    "price": 3299,
+    "diffimages":["https://m.media-amazon.com/images/I/61arz2nJBbL._AC_UF894,1000_QL80_.jpg",
+                "https://images.pexels.com/photos/8845103/pexels-photo-8845103.jpeg",
+                "https://images.pexels.com/photos/35819419/pexels-photo-35819419.jpeg",
+            "https://images.pexels.com/photos/6802632/pexels-photo-6802632.jpeg",
+        "https://images.pexels.com/photos/29423237/pexels-photo-29423237.jpeg"],
+    "description": "Bajaj mixer grinder built for everyday kitchen tasks such as grinding, blending and mixing. Its powerful motor and multiple jars make it useful for preparing a variety of ingredients and recipes.",
+    "features": [
+      "Powerful motor for efficient grinding",
+      "Multiple speed settings",
+      "Durable stainless-steel jars"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Prestige Electric Kettle",
+    "price": 999,
+    "diffimages":["https://www.rasoishop.com/cdn/shop/products/8901365415961-2.jpg?v=1616759366",
+                  "https://images.pexels.com/photos/36741415/pexels-photo-36741415.jpeg",
+                    "https://images.pexels.com/photos/37309530/pexels-photo-37309530.jpeg",
+                "https://images.pexels.com/photos/6000679/pexels-photo-6000679.jpeg",
+            "https://images.pexels.com/photos/28613083/pexels-photo-28613083.jpeg"],
+    "description": "Prestige electric kettle provides a quick and convenient way to boil water for tea, coffee and other hot beverages. Its compact design and easy-to-use handle make it suitable for everyday use.",
+    "features": [
+      "Fast water boiling",
+      "Automatic shut-off feature",
+      "Easy-grip handle"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Havells Room Heater",
+    "price": 2199,
+    "diffimages":["https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/import/Appliances/GHRGHAIK120.jpg",
+                  "https://images.pexels.com/photos/36864512/pexels-photo-36864512.png",
+                "https://media.istockphoto.com/id/1192103369/photo/modern-home-electric-fan-stove.jpg?s=1024x1024&w=is&k=20&c=enSlLkOWi89Cg1ocrke--w-DpgEdlq5MwpQ0S36OM9M=",
+            "https://media.istockphoto.com/id/1754024795/photo/electric-fan-heater-black-color-3d-rendering.jpg?s=1024x1024&w=is&k=20&c=oK2c2A5IpOHlqGZuJMov88DhcI06W5YVnLxA_oC0es4=",
+        "https://media.istockphoto.com/id/463111553/photo/indoor-oil-electric-heater-on-a-white-background.jpg?s=1024x1024&w=is&k=20&c=dO898Pts28R6B_MzQOT_aR2TNHUq6axYgIdZk_gRGDs="],
+    "description": "Havells room heater designed to provide comfortable warmth during cold weather. Its compact design makes it convenient for bedrooms, offices and other indoor spaces.",
+    "features": [
+      "Adjustable temperature settings",
+      "Overheat protection",
+      "Compact portable design"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Morphy Richards Pop-Up Toaster",
+    "price": 1299,
+    "diffimages":["https://tapwell.in/wp-content/uploads/2024/12/WhatsApp-Image-2024-12-03-at-2.04.41-PM.jpeg",
+              "https://images.pexels.com/photos/4493668/pexels-photo-4493668.jpeg",
+                "https://images.pexels.com/photos/7937454/pexels-photo-7937454.jpeg",
+            "https://images.pexels.com/photos/7936636/pexels-photo-7936636.jpeg",
+            "https://images.pexels.com/photos/7936635/pexels-photo-7936635.jpeg"],
+    "description": "Morphy Richards pop-up toaster designed to make breakfast preparation quick and convenient. It provides different browning levels so you can prepare toast according to your preference.",
+    "features": [
+      "Multiple browning levels",
+      "Easy-to-use controls",
+      "Convenient pop-up mechanism"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Anchor Extension Board",
+    "price": 599,
+    "diffimages":["https://rukmini1.flixcart.com/image/1500/1500/xif0q/surge-protector/s/p/d/4-5208-no-anchor-original-imahkgdgztjzgec6.jpeg?q=70",
+                  "https://images.pexels.com/photos/18358118/pexels-photo-18358118.jpeg",
+                    "https://images.pexels.com/photos/8101107/pexels-photo-8101107.jpeg",
+                "https://images.pexels.com/photos/33813267/pexels-photo-33813267.jpeg",
+            "https://media.istockphoto.com/id/482615575/photo/colorful-plug.jpg?s=1024x1024&w=is&k=20&c=hGURBP2or29sJVCHLrMYJYWzUqJDBK2T-Kz7tr45dvA="],
+    "description": "Anchor extension board provides multiple power sockets for connecting electrical devices at home or in the office. It is designed with individual switches and protection features for convenient everyday use.",
+    "features": [
+      "Multiple power sockets",
+      "Individual switches",
+      "Overload protection"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Wipro LED Study Lamp",
+    "price": 799,
+    "diffimages":["https://m.media-amazon.com/images/I/614-rThDspL._AC_UF894,1000_QL80_.jpg",
+                  "https://images.pexels.com/photos/974746/pexels-photo-974746.jpeg",
+                    "https://images.pexels.com/photos/4937990/pexels-photo-4937990.jpeg",
+                "https://images.pexels.com/photos/33164413/pexels-photo-33164413.jpeg",
+            "https://images.pexels.com/photos/11784437/pexels-photo-11784437.jpeg"],
+    "description": "Wipro LED study lamp provides comfortable lighting for reading, studying and working. Its adjustable design allows you to direct the light where it is needed while consuming less power.",
+    "features": [
+      "Adjustable flexible neck",
+      "Energy-efficient LED lighting",
+      "Suitable for study and work"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "AO Smith Electric Geyser",
+    "price": 7499,
+    "diffimages":["https://m.media-amazon.com/images/I/61Bo7zjdOoL.jpg",
+                  "https://images.pexels.com/photos/31183900/pexels-photo-31183900.jpeg",
+                    "https://images.pexels.com/photos/6436774/pexels-photo-6436774.jpeg"],
+    "description": "AO Smith electric geyser designed to provide hot water conveniently for everyday household needs. It combines an energy-efficient heating system with safety features for comfortable and reliable operation.",
+    "features": [
+      "Energy-efficient heating",
+      "Multiple safety features",
+      "Durable water storage tank"
+    ]
+  }
+]
+
